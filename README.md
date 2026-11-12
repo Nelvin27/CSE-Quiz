@@ -1,6 +1,8 @@
 # CSE-Quiz
 
-Open [Civil Service Reviewer](civil-service-quiz.html) in a browser. Choose **Compact Exam Reviewer** for the 1,300 questions from the forms or **Real Exam Reviewer** for the 289 original questions.
+Open [Civil Service Reviewer](civil-service-quiz.html) in a browser. Choose **Compact Exam Reviewer** for questions from the forms or **Real Exam Reviewer** for the 289 original questions.
+
+Use **Browse Brainbox study videos** on the quiz homepage to find timestamped lessons by category. Relevant timestamps appear for incorrect answers and questions marked for review when the video index covers the topic. When there’s no matching timestamp, the link opens the Brainbox category in a new tab. The results also include study links for unanswered graded questions. The quiz skips duplicate exercises and uses local browser history to prioritize unseen questions.
 
 The 130 practice sets below contain 1,300 multiple-choice questions. In the quiz, only questions with an answer key count toward the score.
 
